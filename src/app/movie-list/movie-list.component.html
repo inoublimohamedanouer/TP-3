@@ -1,0 +1,13 @@
+<app-search-bar (movieTitle)="getMovieTitle($event)"></app-search-bar>
+<ng-container *ngIf="filteredMovies.length > 0; else noItems">
+    <ul>
+      <li *ngFor="let movie of filteredMovies">
+        <a [routerLink]="['/movie', movie.id]"><img src="{{movie.image}}" alt="{{movie.title}}"></a>
+        <h3><a [routerLink]="['/movie', movie.id]">{{ movie.title }}</a></h3>
+      </li>
+    </ul>
+  </ng-container>
+  
+  <ng-template #noItems>
+    <p>No items available.</p>
+  </ng-template>

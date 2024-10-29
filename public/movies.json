@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "language": "English",
+    "releaseDate": "2010-07-16",
+    "releaseDate2": 2010,
+    "vote": 8.8,
+    "description": "A skilled thief leads a team into people's dreams to steal secrets.",
+    "image": "/images/inception.jfif"
+  },
+  {
+    "id": 2,
+    "title": "Parasite",
+    "language": "Korean",
+    "releaseDate": "2019-05-30",
+    "releaseDate2": 2019,
+    "vote": 8.6,
+    "description": "A poor family schemes to become employed by a wealthy family.",
+    "image": "/images/parasite.jfif"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "language": "English",
+    "releaseDate": "2014-11-07",
+    "releaseDate2": 2014,
+    "vote": 8.6,
+    "description": "Astronauts embark on a mission to find a new habitable planet.",
+    "image": "/images/interstellar.jfif"
+  },
+  {
+    "id": 4,
+    "title": "Spirited Away",
+    "language": "Japanese",
+    "releaseDate": "2001-07-20",
+    "releaseDate2": 2001,
+    "vote": 8.6,
+    "description": "A young girl stumbles into a world of spirits and must find her way back home.",
+    "image": "/images/spirited away.jfif"
+  },
+  {
+    "id": 5,
+    "title": "The Dark Knight",
+    "language": "English",
+    "releaseDate": "2008-07-18",
+    "releaseDate2": 2008,
+    "vote": 9.0,
+    "description": "Batman faces off against the Joker, a criminal mastermind causing havoc in Gotham.",
+    "image": "/images/the dark knight.jfif"
+  },
+  {
+    "id": 6,
+    "title": "Amélie",
+    "language": "French",
+    "releaseDate": "2001-04-25",
+    "releaseDate2": 2001,
+    "vote": 8.3,
+    "description": "A young woman with a unique imagination brings joy to others in Paris.",
+    "image": "/images/amelie.jfif"
+  },
+  {
+    "id": 7,
+    "title": "Coco",
+    "language": "Spanish, English",
+    "releaseDate": "2017-10-27",
+    "releaseDate2": 2017,
+    "vote": 8.4,
+    "description": "A young musician journeys to the Land of the Dead to uncover his family's legacy.",
+    "image": "/images/coco.jfif"
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "language": "English",
+    "releaseDate": "1972-03-24",
+    "releaseDate2": 1972,
+    "vote": 9.2,
+    "description": "An organized crime dynasty's aging patriarch transfers control of his empire to his reluctant son.",
+    "image": "/images/the godfather.jfif"
+  }
+]
