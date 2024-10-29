@@ -1,3 +1,31 @@
-*{
-    color: yellow;
+.movie-card {
+    background-color: yellow; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 400px; /* Limit the width */
+    margin: 20px auto; /* Center the card */
+    padding: 20px; /* Padding inside the card */
+    text-align: center; /* Center the text */
+}
+
+.movie-card img {
+    width: 100%; /* Responsive image */
+    border-radius: 8px; /* Match the card's corners */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.movie-card h2 {
+    font-size: 1.5em; /* Larger font for the title */
+    margin: 10px 0; /* Spacing above and below the title */
+    color: #333; /* Darker text color */
+}
+
+.movie-card p {
+    font-size: 1em; /* Standard font size for the paragraph */
+    color: #666; /* Slightly lighter text color */
+    margin: 5px 0; /* Margin for spacing */
+}
+
+.movie-card strong {
+    color: #000; /* Bold text color for strong elements */
 }
